@@ -1,0 +1,67 @@
+body {
+  background-color: wheat;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.top-section {
+  background-color: #f0ece2;
+  color: black;
+}
+
+.logo {
+  width: 300px;
+}
+
+.mid-section {
+  background-color: #596e79;
+}
+
+.big-heading {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 900;
+  size: 3.5rem;
+  line-height: 1.5;
+  padding-top: 5%;
+}
+
+.container-fluid {
+  padding: 7% 10%;
+}
+.container {
+  padding: 5% 0%;
+  margin: auto;
+}
+
+.cat-img {
+  width: 40%;
+}
+
+.cat {
+  text-align: justify;
+  font-size: medium;
+}
+
+.bottom-section {
+  background-color: #f0ece2;
+  color: black;
+}
+
+#title {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 900;
+  size: 3.5rem;
+  line-height: 1.5;
+  padding: 5%;
+}
+
+.zoom {
+  transition: transform 0.2s;
+  width: 150%;
+  height: 150%;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(2);
+}

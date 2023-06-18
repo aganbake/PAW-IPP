@@ -1,0 +1,272 @@
+{
+  "cats": [
+    {
+      "Name": "Abisinio",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Marrón Rojizo"
+        },
+        {
+          "color": "Cobrizo"
+        },
+        {
+          "color": "Canela"
+        },
+        {
+          "color": "Chocolate"
+        },
+        {
+          "color": "Beige"
+        }
+      ],
+      "Coat": "Corto",
+      "Description": "Los abisinios son gatos elegantes de tamaño mediano con un cuerpo ágil y fuerte, y patas esbeltas. Tienen la cabeza cuneiforme redondeada, con pequeños mechones característicos en las puntas de las orejas y ojos grandes y almendrados. Su pelaje corto y ceñido al cuerpo tiene un aspecto característico, que se debe a la presencia de varias franjas de color en cada pelo. El color más conocido es el cobrizo, pero hay algunos otros."
+    },
+    {
+      "Name": "Bobtail",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Rojizo"
+        },
+        {
+          "color": "Negro"
+        },
+        {
+          "color": "Bicolor"
+        },
+        {
+          "color": "Azulado"
+        }
+      ],
+      "Coat": "Medio",
+      "Description": "El precioso y conocido Bobtail Americano es un gato “joven”, ya que su origen se remonta a la década de 1960. Nació en Arizona, Estados Unidos, gracias a una pareja estadounidense, llamados John y Brenda Sanders. Esta pareja se encontraba de vacaciones justo al lado de una reserva india en el estado de Arizona, fue allí donde se encontraron a un gatito atigrado marrón con una cola corta, y tomaron la decisión de adoptarle y llevárselo a Lowa, su lugar de residencia."
+    },
+    {
+      "Name": "Curl",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Variado"
+        },
+        {
+          "color": "Nunca Chocolate"
+        },
+        {
+          "color": "Nunca Canela"
+        }
+      ],
+      "Coat": "Medio",
+      "Description": "Esta es una de las razas más jóvenes de gatos, ya que los primeros cruces se iniciaron en 1981 en California, EE. UU., cuando el matrimonio Ruga se encontró con una gatita huérfana de pelo sedoso y orejas curvas en la puerta de su casa a la que adoptaron y llamaron Shulamith. En diciembre del mismo año nació la primera camada de gatitos de Shulamith y dos de ellos heredaron las orejas curvas de su madre. A partir de 1983 se comenzaron a realizar cruces selectivos para intentar mantener el gen característico de la raza y en 1988 fue reconocida la raza por TICA (Asociación Internacional de Gatos)."
+    },
+    {
+      "Name": "Pelo-Corto",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Blanco"
+        },
+        {
+          "color": "Rojizo"
+        },
+        {
+          "color": "Café"
+        },
+        {
+          "color": "Crema"
+        }
+      ],
+      "Coat": "Corto",
+      "Description": "Se trata de una raza robusta que debe mucho a los gatos de trabajo que los primeros colonizadores trajeron a los Estados Unidos, pero su pedigrí se remonta hasta un macho atigrado rojizo, llamado Belle, que fue enviado desde Inglaterra al inicio del siglo XIX, y que fue el primero en registrarse en Estados Unidos bajo el título de Pelo Corto. Más tarde se los conoció como domésticos de pelo corto, pero desde 1966 el nombre oficial ha sido Americano de pelo corto."
+    },
+    {
+      "Name": "Pelo-Aspero",
+      "Size": "Mediano a Largo",
+      "Colors": [
+        {
+          "color": "Variado"
+        }
+      ],
+      "Coat": "Corto",
+      "Description": "Como su propio nombre indica, lo más característico de esta raza es su pelaje. El gato americano de pelo aspero es grande y tiene un pelaje duro, elástico y áspero; cada pelo, de tamaño corto o mediano, es fino y encrespado o rizado. Los bigotes suelen ser rizados. El alcance completo del «rizado» no se manifiesta hasta que el gato es adulto. Puede que haya gatitos con un pelaje muy rizado que luego cambien a un pelo ondulado al crecer, y viceversa. Pueden presentar todo tipo de colores, dibujos y manchas."
+    },
+    {
+      "Name": "Balines",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Chocolate"
+        },
+        {
+          "color": "Blanco"
+        },
+        {
+          "color": "Crema"
+        },
+        {
+          "color": "Crema"
+        }
+      ],
+      "Coat": "Corto",
+      "Description": "El gato balinés es una raza de gato doméstico derivada del gato siamés, lograda por cruzamientos con gatos de pelo largo, para obtener un animal con una complexión y variedades de colores similares a la del siamés, pero con un pelo largo, sedoso y abundante."
+    },
+    {
+      "Name": "Bengala",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Naranja con Café"
+        },
+        {
+          "color": "Puntos Negros"
+        },
+        {
+          "color": "Marmoleado"
+        }
+      ],
+      "Coat": "Corto",
+      "Description": "El bengalí es un gato grande, elegante y muy musculoso, con una cola espesa que suele llevar baja. El aspecto salvaje del bengalí lo realza su característico pelaje: moteado o marmolado, espeso y suntuoso. Su cabeza ancha tiene orejas pequeñas y mejillas pronunciadas, los ojos tienen un contorno negro y forma almendrada. La cola es gruesa, aunque se estrecha hacia la punta, de color negro. No hay ninguna otra raza felina que muestre el efecto brillo de oro o de perla que se encuentra en algunos bengalíes. Estos, además, pueden ser muy exigentes por sus altos niveles de actividad."
+    },
+    {
+      "Name": "Birmano",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Azulado"
+        },
+        {
+          "color": "Chocolate"
+        },
+        {
+          "color": "Café"
+        },
+        {
+          "color": "Foca"
+        }
+      ],
+      "Coat": "Semilargo",
+      "Description": "El birmano es un gato de pelo semilargo de color más oscuro hacia las marcas distales, la cara, las patas, las orejas y la cola, y algo más claro en el resto del cuerpo. Es un gato relativamente grande, con un cuerpo rechoncho y de patas cortas. El birmano tiene los ojos azules y las cuatro zarpas de color blanco puro. Los «calcetines» delanteros cubren solo las falanges, pero los traseros son más largos. La cabeza es ancha y redonda, con orejas de tamaño medio. Los birmanos presentan muchos colores distintos."
+    },
+    {
+      "Name": "Bombay",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Negro"
+        }
+      ],
+      "Coat": "Corto",
+      "Description": "El bombay es un gato de constitución media y un pelaje negro azabache muy brillante que parece charol. El cráneo es ligeramente redondeado, tiene las orejas redondeadas y un hocico ancho. Sus preciosos ojos de color cobre o dorado están bastante separados y son intensos y expresivos. El cuerpo es firme y musculoso, con un lomo recto y fuerte. La trufa y el contorno del ojo son negros y las almohadillas de las patas son negras o de color marrón oscuro."
+    },
+    {
+      "Name": "Britanico",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Azulado"
+        },
+        {
+          "color": "Blanco"
+        },
+        {
+          "color": "Negro"
+        },
+        {
+          "color": "Crema"
+        },
+        {
+          "color": "Gris"
+        },
+        {
+          "color": "Sombreado"
+        }
+      ],
+      "Coat": "Corto",
+      "Description": "El británico de pelo corto es una raza relativamente grande que podría describirse como gruesa o fornida. Tiene muchos contornos redondeados: la cara y las mejillas, las orejas, los ojos y la cabeza. La trufa, corta y ancha, descansa sobre un mentón fuerte y profundo, lo que unido a su pecho y su cola corta y gruesa le convierten en un gato fuerte y robusto. El pelaje, corto y denso sin ser esponjoso, puede presentar más de cien combinaciones distintas de colores y dibujos."
+    },
+    {
+      "Name": "Himalayo",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Crema"
+        },
+        {
+          "color": "Chocolate"
+        },
+        {
+          "color": "Azulado"
+        },
+        {
+          "color": "Rojizo"
+        }
+      ],
+      "Coat": "Corto",
+      "Description": "El Himalayo es una raza de apariencia extrema. El cuerpo es corto pero ancho con piernas anchas y un cuello corto y grueso. Los huesos son pesados pero la cola es corta y las orejas pequeñas. La cabeza del Himalayo es redonda y tiene grandes ojos redondos. Cuando se le ve de perfil, la cara es plana con la nariz cambiando de dirección de modo que se ve principalmente la piel coloreada de la nariz.El pelaje del Himalayo es espeso, rico y largo. Es muy fino pero debe ser lustroso y brillante."
+    },
+    {
+      "Name": "Maine-Coon",
+      "Size": "Grande",
+      "Colors": [
+        {
+          "color": "Brown Tabby"
+        },
+        {
+          "color": "Orange Tabby"
+        },
+        {
+          "color": "Rojizos"
+        },
+        {
+          "color": "Crema"
+        }
+      ],
+      "Coat": "Corto",
+      "Description": "Los gatos maine coon, considerada la mayor de todas las razas de gatos, tienen un cuerpo de fuerte musculatura y patas sólidas. Tiene un hocico cuadrado y unas orejas grandes que se sostienen anchas y erguidas. El pelaje es largo y grueso, con un manto inferior cubierto por un abundante pelo impermeable y brillante. El pelo de la cabeza, del cuello y del torso es más corto y aumenta de longitud al bajar por el lomo, los costados y la cola. El pelo del vientre y de las patas traseras es abundante y lanudo. Tiene una gorguera que empieza en la base de las orejas y es más densa en los machos que en las hembras. El pelo de la cola es largo y suelto. Las orejas presentan mechones en las puntas. Las zarpas tienen también unos mechones que les dan el aspecto de raquetas para la nieve. El maine coon puede presentar más de 30 colores. Los ojos pueden ser verdes, dorados o cobrizos; en los gatos blancos es posible encontrar ojos azules o de distinto color cada uno."
+    },
+    {
+      "Name": "Persa",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Blanco"
+        },
+        {
+          "color": "Azulado"
+        },
+        {
+          "color": "Negro"
+        },
+        {
+          "color": "Crema"
+        },
+        {
+          "color": "Chocolate"
+        }
+      ],
+      "Coat": "Largo",
+      "Description": "El persa es una raza de aspecto diferente. El cuerpo es corto pero grueso, con patas gruesas y un cuello corto y grueso. La cola es corta y las orejas son pequeñas. La cabeza es redonda y tiene unos ojos redondos y grandes. Si se observa de perfil, su cara es plana y la nariz cambia de dirección, de manera que lo que se ve es principalmente la carne colorida de la nariz."
+    },
+    {
+      "Name": "Esfinge",
+      "Size": "Mediano",
+      "Colors": [
+        {
+          "color": "Blanco"
+        },
+        {
+          "color": "Negro"
+        },
+        {
+          "color": "Rojizo"
+        },
+        {
+          "color": "Canela"
+        }
+      ],
+      "Coat": "Extra Corto",
+      "Description": "Famoso por su ausencia de pelo, el esfinge es también amable, cariñoso y enérgico, siempre ansioso del afecto humano. En contraste con su aspecto regio y su expresión seria, el esfinge es un payaso acróbata que no se toma a sí mismo muy en serio. Le encanta entretener y divertir a sus humanos y te seguirá por toda la casa como un perrito."
+    }
+  ]
+}
