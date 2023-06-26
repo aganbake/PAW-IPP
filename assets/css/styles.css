@@ -65,3 +65,15 @@ body {
 .zoom:hover {
   transform: scale(2);
 }
+
+.two {
+  font-size: 50px;
+}
+
+.three {
+  font-size: 40px;
+}
+
+.four {
+  font-size: 20px;
+}

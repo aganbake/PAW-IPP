@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+<!-- Primero nuestro bolier plate con la info de la página -->
 
 <head>
     <meta charset="utf-8">
@@ -24,6 +25,7 @@
 </head>
 
 <body>
+    <!-- El body tendrá 3 secciones, donde en el primero estará nuestro navbar que incluye un dropdown responsive -->
     <section class="top-section" id="title">
         <div class="container-fluid">
             <!-- Nav Bar -->
@@ -57,20 +59,14 @@
     </section>
 
     <!-- All Cats -->
-
+    <!-- La segunda sección incluye los gatitos que llegan de manera dinámica -->
     <section class="mid-section">
         <div class="container-fluid table-responsive">
-            <!-- <form class="d-flex row row-cols-lg-auto" role="search">
-                <input class="form-control" type="search" placeholder="Buscar Gatitos" aria-label="Search"
-                    id="catsAvailable">
-                <button class="btn btn-outline-dark" type="button" onclick="search()">Buscar</button>
-                <button class="btn btn-outline-dark" type="button" onclick="catList()">Volver</button>
-            </form> -->
             <h1 class="big-heading">Gatitos</h1>
             <table class="table align-middle table-striped">
                 <thead>
                     <tr>
-                        <!-- <th scope="col">#</th> -->
+                        <!--acá vamos a recibir los gatitos desde el js e inlcuirlos en el tbody -->
                         <th scope="col">Nombre</th>
                         <th scope="col">Tamaño</th>
                         <th scope="col">Pelaje</th>
@@ -87,11 +83,11 @@
     </section>
 
     <!-- Footer -->
-
+    <!-- Finalmente un footer con los datos de la institución y la empresa -->
     <section class="bottom-section" id="footer">
         <div class="container-fluid">
 
-            <p>© Kevin IPP</p>
+            <p>© Kevin Villarroel @IPP</p>
             <p>® Cats&Co INC</p>
 
         </div>
